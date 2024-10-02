@@ -60,7 +60,7 @@ You can also do it per repo or global.
 
 > TODO: contribution of terminal commands to do it is welcome
 
-### 1.3 More resources
+## 2. More resources
 
 - [Git workflow](https://git-scm.com/docs/gitworkflows#:~:text=gitworkflows%20-%20An%20overview%20of%20recommended%20workflows%20with%20Git.%20SYNOPSIS.)
 

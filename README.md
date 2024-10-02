@@ -36,7 +36,8 @@ Usually the main branch is called `main` or `master`.
 ```
 git checkout main
 git chechout -b new-awesome-feature
-git commit
+git add <file-edited>
+git commit -m "useful comment"
 git push
 ```
 
